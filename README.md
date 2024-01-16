@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Stanislav Ivanov!</h1>
 
-<h3 align="center">Frontend developer with 1 year of commercial experience and more than 1.5 years in web development</h3>
+<h3 align="center">Frontend developer with 1 year of commercial experience</h3>
 <p align="center">
  You can find me on <a href='https://www.linkedin.com/in/stanislav-ivanov-8288511b2/'>LinkedIn</a> or <a href='https://t.me/stanislaviw'>Telegram</a> or write to me <code>slavi8ok@gmail.com</code>
 </p>
