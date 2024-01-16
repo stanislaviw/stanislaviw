@@ -2,7 +2,7 @@
 
 <h3 align="center">Frontend developer with 1 year of commercial experience and more than 1.5 years in web development</h3>
 <p align="center">
- You can find me on [LinkedIn](https://www.linkedin.com/in/stanislav-ivanov-8288511b2/) or [Telegram](https://t.me/stanislaviw) write to me by mail `slavi8ok@gmail.com`
+ You can find me on <a href='https://www.linkedin.com/in/stanislav-ivanov-8288511b2/'>LinkedIn</a> or <a href='https://t.me/stanislaviw'>Telegram</a> or write to me slavi8ok@gmail.com
 </p>
 
 
