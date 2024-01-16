@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Stanislav Ivanov!</h1>
 
-<h3 align="center">Frontend developer with 1 year of commercial experience and more than 1.5 years in web development.e</h3>
+<h3 align="center">Frontend developer with 1 year of commercial experience and more than 1.5 years in web development</h3>
+<p align="center">
+ You can find me on [LinkedIn](https://www.linkedin.com/in/stanislav-ivanov-8288511b2/) or [Telegram](https://t.me/stanislaviw) write to me by mail `slavi8ok@gmail.com`
+</p>
 
 
-## 📰 How to reach me
- - Email `slavi8ok@gmail.com`
- - [LinkedIn](https://www.linkedin.com/in/stanislav-ivanov-8288511b2/)
- - [Telegram](https://t.me/stanislaviw)
+
 
 
 ## 🔨 Skills
