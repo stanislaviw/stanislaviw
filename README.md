@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Stanislav Ivanov! 😎 </h1>
+<h1 align="center">Hi there, I'm Stanislav Ivanov! 😎</h1>
 
 <h3 align="center">Frontend developer with 1 year of commercial experience</h3>
 <p align="center">
