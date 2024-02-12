@@ -19,7 +19,7 @@
 
 - [Telegram](https://t.me/stanislaviw)
 
-- Email - `slavi8ok@gmail.com`
+- `slavi8ok@gmail.com`
 
 ## 🔨 Skills 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Skills" align="left" width="60" height="80"/>
