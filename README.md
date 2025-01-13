@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Stanislav Ivanov! 😎</h1>
 
-<h3 align="center">Frontend developer with 1 year of commercial experience</h3>
+<h3 align="center">Frontend developer with almost 2 year of commercial experience</h3>
 <p align="center">
- And almost 2 years in web development
+ And almost 3 years in web development
 </p>
 
 ## 💻 About Me
